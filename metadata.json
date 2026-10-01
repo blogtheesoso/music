@@ -1,0 +1,6 @@
+{
+  "name": "SunoCraft Studio",
+  "description": "YouTube playlist focused Suno AI music prompt, lyrics, and song title generator supporting Korean and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
